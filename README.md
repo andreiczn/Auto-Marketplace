@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YmUJH1TE)
-# Sistem pentru gestionarea unui parc auto
+
+# Sistem pentru gestionarea unui parc auto [RO]
 ### Andrei Căzan
 
 ## Descriere
@@ -21,9 +21,6 @@ Aplicație destinată gestionării unui parc auto de mașini second-hand. Se urm
     (vânzător/administrator), sau de a vizualiza stocul (utilizator normal)
 ## Arhitectura
 
-![App UML]((https://github.com/Programare-III-2023-2024/p3-proiect-sg1-andreiczn/blob/main/ClassDiagramParcAuto.png))
+![App UML]((https://github.com/andreiczn/Auto-Marketplace/blob/main/ClassDiagramParcAuto.png))
 
-*Pentru a păstra claritatea diagramei, nu au mai fost incluse următoarele
-- Clasele corespunzătoare testelor unitare, AutoFrameTest.java și IstoricFrameTest.java
-- Clasa Main.java, rolul ei fiind doar acela de a invoca MainFrame.java - frame-ul principal al aplicației
-- Cele 2 fișiere text pe care aplicația le folosește pentru a stoca informațiile, stoc.txt și istoric.txt
+
